@@ -1,1 +1,1 @@
-# aula-carreira-senac
+Resumo da aula - Carreiras em TI
